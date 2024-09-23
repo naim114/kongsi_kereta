@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279804006741",
+    "project_id": "predemo-wsmb",
+    "storage_bucket": "predemo-wsmb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279804006741:android:043032d01028cb02705fdc",
+        "android_client_info": {
+          "package_name": "com.example.kongsikereta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDCOdGI3CJU9V6UWv7xrux4FJKnhE4Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
